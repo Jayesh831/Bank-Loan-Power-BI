@@ -4,7 +4,7 @@ Bank loans can be very helpful for people and businesses to reach their goals an
 
 Banks collect information from people and businesses who want to borrow money. This information includes personal and financial details. They also check credit reports to see a person's borrowing history. Banks keep track of loans, payments, and other loan information in their records.
 
-**Banks analyze loan data to:**
+*****Banks analyze loan data to:*****
 
 Assess risk: They check if borrowers are likely to pay back the loan (creditworthiness).
 
