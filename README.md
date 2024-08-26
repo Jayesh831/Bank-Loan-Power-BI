@@ -7,9 +7,15 @@ Banks collect information from people and businesses who want to borrow money. T
 **Banks analyze loan data to:**
 
 Assess risk: They check if borrowers are likely to pay back the loan (creditworthiness).
+
 Make decisions: They decide whether to approve or deny loan applications.
+
 Manage loans: They keep track of loans and make sure they're doing well.
+
 Find fraud: They look for fake loan applications or other illegal activities.
+
 Follow rules: They must follow laws and regulations about loans.
+
 Understand customers: They learn about what customers want and need.
+
 Make money: They check how much they earn from loans and how much they spend on them.
