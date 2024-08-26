@@ -1,4 +1,4 @@
-# Bank-Loan-Power-BI-SQL
+# Bank-Loan-Power-BI
 
 Bank loans can be very helpful for people and businesses to reach their goals and manage their money. But it's important to understand the terms, costs, and what you're responsible for when taking out a loan.
 
